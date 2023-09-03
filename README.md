@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFNNTYKBXQ/kGK8X3ujFrF6FjckUKvzSw/view?utm_content=DAFNNTYKBXQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://pravinsingh.me/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGUS9CRJye6Iw/profile-displaybackgroundimage-shrink_350_1400/0/1685123060535?e=1699488000&v=beta&t=uORi-Mvf0R4EFCjq7rS3yuX_-RzGnA3oTRSQ7JPAVaU)](https://pravinsingh.me/)
 <h1 align="center">Hi 👋, I'm Pravin Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
