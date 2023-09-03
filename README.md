@@ -38,4 +38,4 @@
   </a>  
   </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravinsingh-rajput&show_icons=true&locale=en" alt="pravinsingh-rajput" /></p>
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravinsingh-rajput&show_icons=true&locale=en" alt="pravinsingh-rajput" /></p>  --->
