@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/pravinsingh-rajput/pravinsingh-rajput/assets/60979495/66dddc96-c010-46bb-a700-c08bc7d19591)](https://pravinsingh.me/)
+[![MasterHead](https://github.com/pravinsingh-rajput/pravinsingh-rajput/assets/60979495/dd04eb5f-1fc4-4364-9dd0-2e3edaf51775)](https://pravinsingh.me/)
 
 
 
