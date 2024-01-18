@@ -1,4 +1,8 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGUS9CRJye6Iw/profile-displaybackgroundimage-shrink_350_1400/0/1685123060535?e=1699488000&v=beta&t=uORi-Mvf0R4EFCjq7rS3yuX_-RzGnA3oTRSQ7JPAVaU)](https://pravinsingh.me/)
+[![MasterHead](https://github.com/pravinsingh-rajput/pravinsingh-rajput/assets/60979495/6c52b190-689b-4b49-8a5c-a1a41d297888)](https://pravinsingh.me/)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Pravin Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
