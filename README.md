@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer with 2 years of professional experience specializing in **React.js**, **Next.js**, **JavaScript**, and **TypeScript**. Currently working at **Balance Nutrition**, building scalable, high-performance web applications and modern user interfaces.
+Frontend Developer with 3 years of professional experience specializing in **React.js**, **Next.js**, **JavaScript**, and **TypeScript**. Currently working at **Balance Nutrition**, building scalable, high-performance web applications and modern user interfaces.
 
 - 🚀 Passionate about building clean, user-centric, and performant web applications
 - 🔗 **Portfolio:** [https://pravinsingh.me/](https://pravinsingh.me/)
